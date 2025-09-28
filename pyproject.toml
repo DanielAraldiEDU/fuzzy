@@ -1,0 +1,16 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.3.2",
+    "openpyxl>=3.1.2",
+    "numpy>=2.3.3",
+    "scipy>=1.11.0",
+    "packaging>=21.0",
+    "scikit-fuzzy>=0.5.0",
+    "networkx>=2.8",
+    "matplotlib>=3.10.6",
+]
